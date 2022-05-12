@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+h1 {
+  font-size: 55px;
+  background-color: yellowgreen;
+}
+button {
+  background-color: brown;
+}
